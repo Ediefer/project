@@ -1,0 +1,110 @@
+.bg-danger{
+	background-color: red;
+}
+.bg-blue{
+	background-color: blue;
+}
+.header{
+	height: 500px;
+	width: 1840px;
+}
+.seclayer{
+	height: 350px;
+	width: 1670px;
+}
+.mg-left100{
+	margin-left: 100px ;
+}
+.mg-top{
+	margin-top:40px ;
+}
+.thirdlayer{
+	height: 310px;
+	width: 1300px;
+}
+.thirdlayer3423{
+	height: 310px;
+	width: 1575px;
+}
+.thirdlayer4545{
+	height: 310px;
+	width: 525px;
+}
+.lastlayer{
+	height: 700px;
+}
+.header1{
+	height: 300px;
+	width: 1840px;
+}
+.mg-left50{
+	margin-left: 50px ;
+}
+.pdtop20{
+	padding-top: 30px;
+}
+.dsflex{
+	display: flex;
+}
+.seclayer1{
+	height: 300px;
+	width: 1670px;
+}
+.pd-top10{
+	padding-top: 30px;
+}
+.
+.pd-left30{
+	padding-left: 100px;
+}
+.thirdlayer1{
+	height: 240px;
+	width: 240px;
+	margin-left: 10px;
+	transition: width 0.3s linear,
+	height 0.3s linear
+}
+.mg-left30{
+	margin-left:23px;
+}
+.lastlayer1{
+	height: 700px;
+	width: 470px;
+	transition: width 0.3s linear,
+	height 0.3s linear
+}
+.mg-left100{
+	margin-left: 150px;
+}
+.mgleftright-auto{
+	margin-left: auto;
+    margin-right: auto;
+}
+@font-face{
+	font-family:Schist Black;
+	src: url(2.ttf);
+}
+.font-family{
+	font-family: Schist Black;
+}
+.white{
+	color: white;
+}
+.txtalgn{
+	text-align: center;
+}
+.mg-left200{
+	margin-left: 270px;
+}
+.mg-left500{
+	margin-left: 650px;
+}
+.thirdlayer1:hover {
+	height: 255px;
+	width: 255px;
+	margin-left: 10px;
+}
+.lastlayer1:hover{
+	height: 710px;
+	width: 480px;
+}
